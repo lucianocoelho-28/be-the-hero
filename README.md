@@ -1,6 +1,3 @@
-# be-the-hero
-Projeto desenvolvido durante Semana Omnistack 11 da Rocketseat, utilizando NodeJS, ReactJS e React Native
-
 <h1 align="center">
     <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
 </h1>
