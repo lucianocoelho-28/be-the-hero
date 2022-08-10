@@ -1,6 +1,6 @@
 Licença MIT
 
-Direitos autorais (c) 2020 Rocketseat
+Direitos autorais (c) 2020 Luciano Coelho
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para negociar no Software sem restrições, incluindo, sem limitação, os direitos de uso, cópia, modificação, fusão , publicar, distribuir, sublicenciar e / ou vender cópias do Software e permitir que as pessoas a quem o Software é fornecido o façam, sob as seguintes condições:
 
