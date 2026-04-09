@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "knex": "^2.4.0",
+    "express": "^5.2.1",
+    "knex": "^3.2.9",
     "sqlite3": "^6.0.1"
   },
   "devDependencies": {
